@@ -1,0 +1,82 @@
+body{
+    background-color: hsl(214 37% 4%);
+    padding:100px;
+}
+.conteiner{
+    display: flex;
+
+}
+.conteiner1 h1{
+    color: hsl(204 60% 97%);
+    font-size: 100px;
+}
+.conteiner1 p{
+    color: hsl(211 14% 50%);
+}
+.conteiner7{
+    display: flex;
+    justify-content: space-between;
+}
+.conteiner1 h2{
+    color: hsl(211 14% 50%);
+    font-size: 40px;
+}
+.conteiner2{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+.conteiner2 .tx1{
+    border: 1px solid hsl(211 14% 50%);
+    width: 600px;
+    height: 1px;
+    
+}
+.conteiner4{
+    background-color:hsl(211 30% 13%);
+    margin-left: 50px;
+    padding: 40px;
+    width: 500px;
+}
+
+.conteiner5{
+    display:flex ;
+    justify-content: space-between;
+}
+
+.conteiner5.tx2{
+    color: aliceblue;
+}
+.conteiner .tx3{
+    color:  hsl(211 14% 50%);
+}
+.liza{
+    color: hsl(211 14% 50%);
+}
+.giorgi{
+    width: 400px;
+    height: 25px;
+    margin-top: 20px;
+}
+.conteiner4 p{
+    color: hsl(211 14% 50%);
+}
+.conteiner6{
+    display: flex;
+}
+.conteiner4 button{
+    background-color: hsl(77 90% 59%);
+    width: 400px;
+    height: 40px;
+    margin-top: 40px;
+}
+.conteiner8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.conteiner4 u{
+    color: hsl(77 90% 59%);
+}
